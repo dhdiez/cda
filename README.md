@@ -7,6 +7,7 @@
 
 # GitHub Actions: Continuous Delivery with Azure
 
+
 <!--
   <<< Author notes: Start of the course >>>
   Include start button, a note about Actions minutes,
